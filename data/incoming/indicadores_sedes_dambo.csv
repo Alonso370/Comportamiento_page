@@ -1,0 +1,10 @@
+﻿periodo,sede,lider,ventas_mes,meta_ventas,productividad_pct,clientes_atendidos,ticket_promedio,reclamos_mes,capacitaciones_programadas,capacitaciones_completadas,cumplimiento_capacitacion,tasa_ausentismo,rotacion_personal
+2026-05,Sede Centro,Jefe demo - Centro,113080,145000,78.0,3886,29.1,3,4,1,25.0,8.0,2.4
+2026-06,Sede Centro,Jefe demo - Centro,122075,145000,84.2,3865,31.58,15,4,2,50.0,7.7,3.8
+2026-07,Sede Centro,Jefe demo - Centro,128500,145000,88.6,4564,28.16,6,4,2,50.0,5.6,2.4
+2026-05,Sede Norte,Jefe demo - Norte,93984,118000,79.6,2918,32.21,4,4,1,25.0,5.0,2.2
+2026-06,Sede Norte,Jefe demo - Norte,101460,118000,86.0,3124,32.48,15,4,1,25.0,5.9,3.8
+2026-07,Sede Norte,Jefe demo - Norte,106800,118000,90.5,3284,32.52,5,4,2,50.0,5.4,3.8
+2026-05,Sede Sur,Jefe demo - Sur,85536,110000,77.8,2425,35.27,3,4,1,25.0,8.1,4.0
+2026-06,Sede Sur,Jefe demo - Sur,92340,110000,83.9,2977,31.02,16,4,2,50.0,7.1,2.1
+2026-07,Sede Sur,Jefe demo - Sur,97200,110000,88.4,2559,37.98,5,4,2,50.0,7.9,3.3

@@ -1,0 +1,4 @@
+﻿fecha,sede,canal,tipo_reclamo,colaborador,lider,texto,puntuacion_cliente,urgencia_reportada
+2026-07-02 17:00:53,Sede Centro,Trabajador,Falta de empatía,Rodolfo,Jefe demo - Centro,Habia un cliente que se estaba quejando y lo intente atender pero seguia qujandose y cuando llego mi jefe el me grito delante de todos y ni siquiera soluciono el problema,1,Crítica
+2026-07-02 21:29:45,Sede Centro,Trabajador,Otro,Julissa,Jefe demo - Centro,"Mi jefe reclama y llama a toda hora, no respeta la hora de refrigerio ni las fuera del trabajo y no es ni para situaciones criticas",1,Crítica
+2026-07-03 16:50:09,Sede Centro,Trabajador,Otro,Donan,Jefe demo - Centro,Mi jefe me grito por que no lo salude por su cumpleaños,3,Media
